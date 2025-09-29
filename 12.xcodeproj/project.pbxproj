@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		87658CAD2E8A783600B1041A /* tryPush.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87658CAC2E8A782F00B1041A /* tryPush.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		629FE7AB2E8A770200EB43E4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		629FE79D2E8A770100EB43E4 /* 12.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 12.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		629FE7AA2E8A770200EB43E4 /* 12Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 12Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		629FE7B42E8A770200EB43E4 /* 12UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 12UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		87658CAC2E8A782F00B1041A /* tryPush.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tryPush.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				629FE7AD2E8A770200EB43E4 /* 12Tests */,
 				629FE7B72E8A770200EB43E4 /* 12UITests */,
 				629FE79E2E8A770100EB43E4 /* Products */,
+				87658CAC2E8A782F00B1041A /* tryPush.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -236,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87658CAD2E8A783600B1041A /* tryPush.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
